@@ -1,0 +1,149 @@
+
+    #container{
+        background-color: #2e569f9c;
+        margin: 5% 10%;
+        padding: 20px;
+        
+        
+     }
+
+     .card{
+
+         display: block;
+        margin: 20px auto;
+        border-radius: 10px;
+        border: 5px solid rgb(7, 28, 146);
+        background-color: rgb(69, 165, 255);
+        color: rgb(30, 36, 116);
+        color: aliceblue;
+
+     }
+      iframe{
+        width: 100%;
+        height: 350px;
+        }
+
+      
+        .btn{
+            background-color: rgb(255, 0, 0);
+            color: beige;
+        }
+
+
+         .btn:hover{
+            background-color: rgb(87, 0, 0);
+            color: beige;
+        }
+
+
+        body{
+            margin: 0%;
+        padding: 0%;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        background-color: #9f8a2eb0;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 14px;
+            background-image: url("../img/fundo.webp") ;
+        }
+
+        h1,h3,h2{
+
+            color: aliceblue;
+             display: block;
+        
+        border-radius: 10px;
+        border: 4px solid rgb(7, 28, 146);
+        background-color: rgb(58, 199, 255);
+        width: 300px;
+            
+            
+        }
+
+        hr{
+            color: rgb(255, 255, 255);
+            height: 5px;
+            background-color:  rgb(255, 255, 255);
+        }
+
+        .video-box {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 10px;
+    background: #0044ff;
+    border-radius: 18px;
+    overflow: hidden;
+  }
+
+  .video-box:hover{
+    background-color: #00aeff;
+  }
+
+  .video-carousel {
+    width: 100%;
+    max-height: 500px;
+    object-fit: cover;
+    border-radius: 12px;
+    background: #000000;
+  }
+
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 8%;
+  }
+
+  .custom-arrow {
+    background-size: 70% 70%;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: rgba(255, 72, 0, 0.74);
+  }
+
+  .carousel-control-prev:hover .custom-arrow,
+  .carousel-control-next:hover .custom-arrow {
+    background-color: rgba(240, 1, 1, 0.7);
+  }
+
+.accordion-item {
+    background-color: rgb(69, 165, 255); /* fundo da caixa */
+    border: 1px solid #0044ff;
+}
+
+.accordion-button {
+    background-color: #0044ff; /* fundo do título */
+    color: #ffffff; /* cor da letra do botão */
+    font-weight: bold;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: rgb(83, 221, 255); /* fundo quando abre */
+    color: white; /* cor da letra quando aberto */
+}
+
+.accordion-body {
+    background-color: #fff8dc; /* fundo do conteúdo */
+    color: #333; /* cor da letra do texto */
+    font-size: 16px;
+}
+
+form{
+    background-color: #0558b6dc;
+    color: rgb(83, 221, 255);
+}
+
+ .tierlist-container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 30px auto;
+    }
+
+    .tierlist-container iframe {
+      width: 100%;
+      height: 610px;
+      border: none;
+      border-radius: 10px;
+    }
+
+    
+    
